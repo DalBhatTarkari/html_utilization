@@ -1,11 +1,26 @@
-body{
-  padding: 25px;
-}
+
 header{
   padding: 20;
-  background-color: #002cc0;
+  background-color: #000000;
 color:#FFFFFF;
 }
-.cool {
-	background-color: #969bad;
+.cool{
+	background-color: #8a8a8a;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.list{
+	color:white;
+	background-color:black;
+	padding-left:15%;
+	padding-right:15%;"
+	padding-top:1%;"
+	padding-bottom:1%;"
 }
