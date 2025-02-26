@@ -1,22 +1,25 @@
-
 header{
-  padding: 20;
-  background-color: #000000;
-color:#FFFFFF;
+	position:relative;
+	padding: 20;
+	width:100%;
+	background-color: #000000;
+	color:#FFFFFF;
+	top: -10;
+	left: -10;
 }
 .cool{
 	background-color: #8a8a8a;
 }
 .footer{
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding-bottom: 20px;
+    	position: fixed;
+    	bottom: -10;
+	left: -10;
+   	width: 110%;
+   	background-color: black;
+    	color: white;
+	padding-left: 15px;
+   	padding-bottom: 60px;
 }
 .list{
 	color:white;
-	background-color:black;
 }
